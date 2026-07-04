@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/01-CSharp/" />
+  <Folder Name="/01-CSharp/Day01_FirstConsoleApp/">
+    <Project Path="01-CSharp/Day01_FirstConsoleApp/Day01_FirstConsoleApp/Day01_FirstConsoleApp.csproj" />
+  </Folder>
+  <Folder Name="/02-DSA/" />
+  <Folder Name="/02-DSA/Day01_LoopsPractice/">
+    <Project Path="02-DSA/Day01_LoopsPractice/Day01_LoopsPractice/Day01_LoopsPractice.csproj" />
+  </Folder>
+</Solution>
