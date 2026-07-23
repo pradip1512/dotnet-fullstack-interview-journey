@@ -1,5 +1,7 @@
 <Solution>
-  <Folder Name="/01-CSharp/" />
+  <Folder Name="/01-CSharp/">
+    <Project Path="01-CSharp/Day02_Variables/Day02_Variables.csproj" Id="0762d2af-dcd9-42c6-9746-5bb9e365d428" />
+  </Folder>
   <Folder Name="/01-CSharp/Day01_FirstConsoleApp/">
     <Project Path="01-CSharp/Day01_FirstConsoleApp/Day01_FirstConsoleApp/Day01_FirstConsoleApp.csproj" />
   </Folder>
