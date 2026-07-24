@@ -31,3 +31,7 @@ var example3 = new Day02_Variables.TypeCastingExamples();
 example3.RunImplicitAndExplicitExamples();
 example3.RunParsingExamples();
 example3.RunEmployeeInputExample();
+
+Console.WriteLine("================ Boxing and Unboxing ============================");
+var boxingExample = new BoxingExamples();
+boxingExample.RunBoxingExamples();
