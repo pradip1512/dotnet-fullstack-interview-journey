@@ -10,4 +10,5 @@
   <Folder Name="/02-DSA/Day01_LoopsPractice/">
     <Project Path="02-DSA/Day01_LoopsPractice/Day01_LoopsPractice/Day01_LoopsPractice.csproj" />
   </Folder>
+  <Project Path="01-CSharp/Day04_Methods/Day04_Methods.csproj" Id="e86cd046-a870-4d59-9b89-0c6d6dfe337f" />
 </Solution>
