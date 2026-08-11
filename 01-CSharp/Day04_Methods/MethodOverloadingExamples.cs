@@ -6,7 +6,7 @@ namespace Day04_Methods
 {
     public class MethodOverloadingExamples
     {
-        //Resumable helper method to run method overloading examples
+        //Reusable helper method to run method overloading examples
         public static void PrintHeading(string heading)
         {
             Console.WriteLine($"\n========== {heading} ==============");
