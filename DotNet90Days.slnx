@@ -2,6 +2,8 @@
   <Folder Name="/01-CSharp/">
     <Project Path="01-CSharp/Day02_Variables/Day02_Variables.csproj" Id="0762d2af-dcd9-42c6-9746-5bb9e365d428" />
     <Project Path="01-CSharp/Day03_Operators/Day03_Operators.csproj" Id="82c1d107-4b81-467d-8174-2678366163aa" />
+    <Project Path="01-CSharp/Day04_Methods/Day04_Methods.csproj" Id="e86cd046-a870-4d59-9b89-0c6d6dfe337f" />
+    <Project Path="01-CSharp/Day05_Classes/Day05_Classes.csproj" Id="838459e4-0d61-4c83-84c1-571f8153b3a2" />
   </Folder>
   <Folder Name="/01-CSharp/Day01_FirstConsoleApp/">
     <Project Path="01-CSharp/Day01_FirstConsoleApp/Day01_FirstConsoleApp/Day01_FirstConsoleApp.csproj" />
@@ -10,5 +12,4 @@
   <Folder Name="/02-DSA/Day01_LoopsPractice/">
     <Project Path="02-DSA/Day01_LoopsPractice/Day01_LoopsPractice/Day01_LoopsPractice.csproj" />
   </Folder>
-  <Project Path="01-CSharp/Day04_Methods/Day04_Methods.csproj" Id="e86cd046-a870-4d59-9b89-0c6d6dfe337f" />
 </Solution>
