@@ -6,6 +6,7 @@
     <Project Path="01-CSharp/Day05_Classes/Day05_Classes.csproj" Id="838459e4-0d61-4c83-84c1-571f8153b3a2" />
     <Project Path="01-CSharp/Day06_Inheritance/Day06_Inheritance.csproj" Id="d8924f8f-71b0-4690-8fa3-cf152c1f8e43" />
     <Project Path="01-CSharp/Day07_Polymorphism/Day07_Polymorphism.csproj" Id="d3205758-9086-4b5c-b459-0d2b5cd4432c" />
+    <Project Path="01-CSharp/Day08_Abstraction/Day08_Abstraction.csproj" Id="a8b36003-118b-4597-a988-a0cc96c1a629" />
   </Folder>
   <Folder Name="/01-CSharp/Day01_FirstConsoleApp/">
     <Project Path="01-CSharp/Day01_FirstConsoleApp/Day01_FirstConsoleApp/Day01_FirstConsoleApp.csproj" />
