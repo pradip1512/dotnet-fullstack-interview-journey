@@ -7,8 +7,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\Day08_Abstraction\Day08_Abstraction.csproj" />
-  </ItemGroup>
-
 </Project>
