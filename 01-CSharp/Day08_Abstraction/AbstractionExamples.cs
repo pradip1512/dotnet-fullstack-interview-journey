@@ -105,4 +105,73 @@ namespace Day08_Abstraction
             }
         }
     }
+    public abstract class Notification
+    {
+        public int NotificationId { get; set; }
+        public string Recipient { get; set; }
+        public string Message { get; set; }
+
+        // constructor
+        public Notification(int notificationId, string recipient, string message)
+        {
+            NotificationId = notificationId;
+            Recipient = recipient;
+            Message = message;
+        }
+
+        //concrete method - common implementation
+        public void DisplayNotificationInfo()
+        {
+            Console.WriteLine($"Notification Id: {NotificationId}");
+            Console.WriteLine($"Recipient: {Recipient}");
+            Console.WriteLine($"Message: {Message}");
+        }
+        // Abstract method - derived classes must implement
+        public abstract void Send();
+    }
+    public class EmailNotification : Notification
+    {
+        public string EmailSubject { get; set; }
+        public EmailNotification(int notificationId, string recipient, string message, string emailSubject)
+            : base(notificationId, recipient, message)
+        {
+            EmailSubject = emailSubject;
+        }
+        public override void Send()
+        {
+            Console.WriteLine($"Sending Email notificationto {Recipient}");
+            Console.WriteLine($"Subject: {EmailSubject}");
+            Console.WriteLine($"Message: {Message}");
+        }
+    }
+
+    public class SmsNotification : Notification
+    {
+        public string PhoneNumber { get; set; }
+        public SmsNotification(int notificationId, string recipient, string message, string phoneNumber)
+            : base(notificationId, recipient, message)
+        {
+            PhoneNumber = phoneNumber;
+        }
+        public override void Send()
+        {
+            Console.WriteLine($"Phone Number: {PhoneNumber}");
+            Console.WriteLine($"Message: {Message}");
+        }
+    }
+
+    public class TeamNotification : Notification
+    {
+        public string TeamName { get; set; }
+        public TeamNotification(int notificationId, string recipient, string message, string teamName)
+            : base(notificationId, recipient, message)
+        {
+            TeamName = teamName;
+        }
+        public override void Send()
+        {
+            Console.WriteLine($"Sending Team notification to {TeamName} Team");
+            Console.WriteLine($"Message: {Message}");
+        }
+    }
 }
