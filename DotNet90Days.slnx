@@ -8,6 +8,7 @@
     <Project Path="01-CSharp/Day07_Polymorphism/Day07_Polymorphism.csproj" Id="d3205758-9086-4b5c-b459-0d2b5cd4432c" />
     <Project Path="01-CSharp/Day08_Abstraction/Day08_Abstraction.csproj" Id="a8b36003-118b-4597-a988-a0cc96c1a629" />
     <Project Path="01-CSharp/Day09_Encapsulation/Day09_Encapsulation.csproj" Id="c41247c6-5011-4496-a6e6-83289b575556" />
+    <Project Path="01-CSharp/Day10_Interfaces/Day10_Interfaces.csproj" Id="dba93d23-7b3d-4d05-887e-6fd91313b5fe" />
   </Folder>
   <Folder Name="/01-CSharp/Day01_FirstConsoleApp/">
     <Project Path="01-CSharp/Day01_FirstConsoleApp/Day01_FirstConsoleApp/Day01_FirstConsoleApp.csproj" />
