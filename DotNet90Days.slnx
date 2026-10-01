@@ -10,6 +10,7 @@
     <Project Path="01-CSharp/Day09_Encapsulation/Day09_Encapsulation.csproj" Id="c41247c6-5011-4496-a6e6-83289b575556" />
     <Project Path="01-CSharp/Day10_Interfaces/Day10_Interfaces.csproj" Id="dba93d23-7b3d-4d05-887e-6fd91313b5fe" />
     <Project Path="01-CSharp/Day11_ExceptionHandling/Day11_ExceptionHandling.csproj" Id="560f22e4-13d3-416f-80d8-dab777423235" />
+    <Project Path="01-CSharp/Day12_Collections/Day12_Collections.csproj" Id="6c9f069d-3d20-4e6b-86bb-02fe29685496" />
   </Folder>
   <Folder Name="/01-CSharp/Day01_FirstConsoleApp/">
     <Project Path="01-CSharp/Day01_FirstConsoleApp/Day01_FirstConsoleApp/Day01_FirstConsoleApp.csproj" />
