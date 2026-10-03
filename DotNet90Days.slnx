@@ -12,6 +12,7 @@
     <Project Path="01-CSharp/Day11_ExceptionHandling/Day11_ExceptionHandling.csproj" Id="560f22e4-13d3-416f-80d8-dab777423235" />
     <Project Path="01-CSharp/Day12_Collections/Day12_Collections.csproj" Id="6c9f069d-3d20-4e6b-86bb-02fe29685496" />
     <Project Path="01-CSharp/Day13_Generics/Day13_Generics.csproj" Id="7e9aef9a-1491-44f2-a8a3-4e3d02894867" />
+    <Project Path="01-CSharp/Day14_Strings/Day14_Strings.csproj" Id="d2cbeee4-85f9-493e-8499-3a718e453af1" />
   </Folder>
   <Folder Name="/01-CSharp/Day01_FirstConsoleApp/">
     <Project Path="01-CSharp/Day01_FirstConsoleApp/Day01_FirstConsoleApp/Day01_FirstConsoleApp.csproj" />
