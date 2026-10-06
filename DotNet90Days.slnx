@@ -13,6 +13,7 @@
     <Project Path="01-CSharp/Day12_Collections/Day12_Collections.csproj" Id="6c9f069d-3d20-4e6b-86bb-02fe29685496" />
     <Project Path="01-CSharp/Day13_Generics/Day13_Generics.csproj" Id="7e9aef9a-1491-44f2-a8a3-4e3d02894867" />
     <Project Path="01-CSharp/Day14_Strings/Day14_Strings.csproj" Id="d2cbeee4-85f9-493e-8499-3a718e453af1" />
+    <Project Path="01-CSharp/Day15_DelegatesLambdas/Day15_DelegatesLambdas.csproj" Id="c5e945c7-7b17-4358-a2b8-9ad0df9e7826" />
   </Folder>
   <Folder Name="/01-CSharp/Day01_FirstConsoleApp/">
     <Project Path="01-CSharp/Day01_FirstConsoleApp/Day01_FirstConsoleApp/Day01_FirstConsoleApp.csproj" />
