@@ -16,6 +16,7 @@
     <Project Path="01-CSharp/Day15_DelegatesLambdas/Day15_DelegatesLambdas.csproj" Id="c5e945c7-7b17-4358-a2b8-9ad0df9e7826" />
     <Project Path="01-CSharp/Day16_LINQ/Day16_LINQ.csproj" Id="b124eba8-aa6b-4053-9b84-31d9890f7e80" />
     <Project Path="01-CSharp/Day17_EnumerableQueryable/Day17_EnumerableQueryable.csproj" Id="1f91ce19-50a7-4afd-a6aa-d1cce282e643" />
+    <Project Path="01-CSharp/Day18_AsyncAwait/Day18_AsyncAwait.csproj" Id="9912a875-701f-462c-82aa-fbd991a360a6" />
   </Folder>
   <Folder Name="/01-CSharp/Day01_FirstConsoleApp/">
     <Project Path="01-CSharp/Day01_FirstConsoleApp/Day01_FirstConsoleApp/Day01_FirstConsoleApp.csproj" />
